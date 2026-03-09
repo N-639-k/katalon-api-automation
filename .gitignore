@@ -1,0 +1,13 @@
+# Katalon Studio specific ignores
+.gradle/
+bin/
+Libs/
+Reports/
+.settings/
+.classpath
+.project
+console.properties
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
